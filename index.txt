@@ -1,0 +1,54 @@
+
+Data Structure and Algorithm:
+
+Playlist from Codevolution:
+https://youtube.com/playlist?list=PLC3y8-rFHvwjPxNAKvZpdnsr41E0fCMMP&si=fPLvl4pf9Y9sm8TU
+
+Estimated time to complete: 8 Hours to watch the videos + 8 Hours to practice
+Total Time: 16 Hours.
+
+Javascript:
+
+Revision and practice of JS notes which i have prepared during my last job switch
+Total Time: 6 Hours.
+
+React:
+
+Before going to the notes, let’s spend some time on this article:	
+
+https://medium.com/@mousumi.cse05/important-topics-you-should-know-as-a-react-developer-264153d98cba
+
+	Revision of notes:
+	2 Hours
+Redux:
+	Redux, redux thunk, redux-toolkit, redux-saga:
+	3 Hours
+React Testing:
+	3 Hours
+https://www.freecodecamp.org/news/testing-react-hooks/
+
+https://youtu.be/OVNjsIto9xM?si=AWYpgayLOmRTn_sY
+
+Arrange, Act, Assert
+
+After this, go through:
+
+https://anywhere.epam.com/en/blog/senior-react-js-developer-interview-questions
+
+https://www.turing.com/interview-questions/react-js
+
+CSS:
+	2 Hours
+
+Misc Topics:
+	Security:
+
+Performance:
+
+UI framework:
+
+Design pattern:
+
+System design:
+
+Branching:
